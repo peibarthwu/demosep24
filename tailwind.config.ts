@@ -15,6 +15,9 @@ const config: Config = {
       },
       zIndex: {
         1: "1"
+      },
+      backgroundColor: {
+        highlight: 'red'
       }
     },
   },
